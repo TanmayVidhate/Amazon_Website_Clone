@@ -254,7 +254,7 @@ span {
 /** Hero sections**/
 
 .hero-section {
-    background-image: url('hero_banner.jpg');
+    background-image: url('./image/hero_banner.jpg');
     background-size: cover;
     height: 120vh;
     position: relative;
@@ -292,7 +292,7 @@ span {
 
 /*box 1*/
 .box1-img1 {
-    background-image: url('box1-img1.jpg');
+    background-image: url('./image/box1-img1.jpg');
     background-size: cover;
     width: 100px;
     height: 111px;
@@ -301,7 +301,7 @@ span {
 }
 
 .box1-img2 {
-    background-image: url('box1-img2.jpg');
+    background-image: url('./image/box1-img2.jpg');
     background-size: cover;
     width: 70px;
     height: 111px;
@@ -310,7 +310,7 @@ span {
 }
 
 .box1-img3 {
-    background-image: url('box1-img3.jpg');
+    background-image: url('./image/box1-img3.jpg');
     background-size: cover;
     width: 107px;
     height: 125px;
@@ -319,7 +319,7 @@ span {
 }
 
 .box1-img4 {
-    background-image: url('box1-img4.jpg');
+    background-image: url('./image/box1-img4.jpg');
     background-size: cover;
     width: 90px;
     height: 125px;
@@ -330,7 +330,7 @@ span {
 
 /*box 2*/
 .box2-img1 {
-    background-image: url('box2-img1.jpg');
+    background-image: url('./image/box2-img1.jpg');
     background-size: cover;
     width: 103px;
     height: 131px;
@@ -339,7 +339,7 @@ span {
 }
 
 .box2-img2 {
-    background-image: url('box2-img2.jpg');
+    background-image: url('./image/box2-img2.jpg');
     background-size: cover;
     width: 103px;
     height: 131px;
@@ -348,7 +348,7 @@ span {
 }
 
 .box2-img3 {
-    background-image: url('box2-img3t.jpg');
+    background-image: url('./image/box2-img3t.jpg');
     background-size: cover;
     width: 100px;
     height: 111px;
@@ -357,7 +357,7 @@ span {
 }
 
 .box2-img4 {
-    background-image: url('box2-img4.jpg');
+    background-image: url('./image/box2-img4.jpg');
     background-size: cover;
     width: 100px;
     height: 111px;
@@ -369,7 +369,7 @@ span {
 /*box 3*/
 
 .box3-img1 {
-    background-image: url('box3-img1.jpg');
+    background-image: url('./image/box3-img1.jpg');
     background-size: cover;
     width: 106px;
     height: 131px;
@@ -378,7 +378,7 @@ span {
 }
 
 .box3-img2 {
-    background-image: url('box2-img2.jpg');
+    background-image: url('./image/box2-img2.jpg');
     background-size: cover;
     width: 103px;
     height: 131px;
@@ -387,7 +387,7 @@ span {
 }
 
 .box3-img3 {
-    background-image: url('box3-img3.jpg');
+    background-image: url('./image/box3-img3.jpg');
     background-size: cover;
     width: 95px;
     height: 131px;
@@ -396,7 +396,7 @@ span {
 }
 
 .box3-img4 {
-    background-image: url('box3-img4.jpg');
+    background-image: url('./image/box3-img4.jpg');
     background-size: cover;
     width: 60px;
     height: 131px;
@@ -409,7 +409,7 @@ span {
 /*box 4*/
 
 .box4-img1 {
-    background-image: url('box4-img1.jpg');
+    background-image: url('./image/box4-img1.jpg');
     background-size: cover;
     width: 120px;
     height: 115px;
@@ -418,7 +418,7 @@ span {
 }
 
 .box4-img2 {
-    background-image: url('box4-img2.jpg');
+    background-image: url('./image/box4-img2.jpg');
     background-size: cover;
     width: 110px;
     height: 115px;
@@ -427,7 +427,7 @@ span {
 }
 
 .box4-img3 {
-    background-image: url('box4-img3.jpg');
+    background-image: url('./image/box4-img3.jpg');
     background-size: cover;
     width: 70px;
     height: 140px;
@@ -437,7 +437,7 @@ span {
 
 
 .box4-img4 {
-    background-image: url('box4-img4.jpg');
+    background-image: url('./image/box4-img4.jpg');
     background-size: cover;
     width: 105px;
     height: 140px;
@@ -470,7 +470,7 @@ span {
 /*box 5*/
 
 .box2-1-img1 {
-    background-image: url('box2.1-img1.jpg');
+    background-image: url('./image/box2.1-img1.jpg');
     background-size: cover;
     width: 100px;
     height: 120px;
@@ -479,7 +479,7 @@ span {
 }
 
 .box2-1-img2 {
-    background-image: url('box2.1-img2.jpg');
+    background-image: url('./image/box2.1-img2.jpg');
     background-size: cover;
     width: 120px;
     height: 120px;
@@ -488,7 +488,7 @@ span {
 }
 
 .box2-1-img3 {
-    background-image: url('box2-1-img3.jpg');
+    background-image: url('./image/box2-1-img3.jpg');
     background-size: cover;
     width: 150px;
     height: 120px;
@@ -498,7 +498,7 @@ span {
 
 
 .box2-1-img4 {
-    background-image: url('box2.1-img4.jpg');
+    background-image: url('./image/box2.1-img4.jpg');
     background-size: cover;
     width: 120px;
     height: 120px;
@@ -509,7 +509,7 @@ span {
 /*box 6*/
 
 .box6-img1 {
-    background-image: url('box6-img1.jpg');
+    background-image: url('./image/box6-img1.jpg');
     background-size: cover;
     width: 100px;
     height: 140px;
@@ -518,7 +518,7 @@ span {
 }
 
 .box6-img2 {
-    background-image: url('box6-img2.jpg');
+    background-image: url('./image/box6-img2.jpg');
     background-size: cover;
     width: 130px;
     height: 140px;
@@ -527,7 +527,7 @@ span {
 }
 
 .box6-img3 {
-    background-image: url('box6-img3.jpg');
+    background-image: url('./image/box6-img3.jpg');
     background-size: cover;
     width: 110px;
     height: 120px;
@@ -536,7 +536,7 @@ span {
 }
 
 .box6-img4 {
-    background-image: url('box6-img4.jpg');
+    background-image: url('./image/box6-img4.jpg');
     background-size: cover;
     width: 100px;
     height: 120px;
@@ -547,7 +547,7 @@ span {
 /*box 7*/
 
 .box7-img1 {
-    background-image: url('box7-img1.jpg');
+    background-image: url('./image/box7-img1.jpg');
     background-size: cover;
     width: 250px;
     height: 250px;
@@ -562,7 +562,7 @@ span {
 
 /*box 8*/
 .box8-img1 {
-    background-image: url('box8-img1.jpg');
+    background-image: url('./image/box8-img1.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     height: 300px;
@@ -638,7 +638,7 @@ li {
 }
 
 .footer-logo {
-    background-image: url('amazon_logo.png');
+    background-image: url('./image/amazon_logo.png');
     background-size: cover;
     /* border: 1px solid yellow; */
     width: 100px;
