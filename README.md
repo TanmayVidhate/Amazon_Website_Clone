@@ -3,4 +3,4 @@
   frontend functionality. Crafted with modern design principles, this site replicates the familiar
   Amazon interface, ensuring an intuitive and immersive shopping experience for users.
 </p><br>
-<h4>Author Name:-Tanmay Vidhate</h4>
+<h3>Author Name:-Tanmay Vidhate</h3>
